@@ -2,7 +2,7 @@ GitHub Copilot: Here's a sample Django Rest Framework README file:
 
 # Project Name
 
-This project is a tutorial on RESTful API built with Django Rest Framework.
+This project is a tutorial on RESTful API built with Django Rest Framework. Based on this online tutorial https://learndjango.com/tutorials/official-django-rest-framework-tutorial-beginners
 
 ## Installation
 
