@@ -18,8 +18,8 @@ This project is a tutorial on RESTful API built with Django Rest Framework. Base
 
 The API has the following endpoints:
 
-- `/api/endpoint1/`: Endpoint 1 description
-- `/api/endpoint2/`: Endpoint 2 description
+- `http://127.0.0.1:8000/users/`: Endpoint 1 User
+- `http://127.0.0.1:8000/snippets/`: Endpoint 2 Snippets
 
 To access the endpoints, send HTTP requests to the corresponding URLs using a tool like `curl` or a REST client like Postman.
 
