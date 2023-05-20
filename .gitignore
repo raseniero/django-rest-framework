@@ -60,7 +60,6 @@ media
 
 # Developers
 *.sw*
-manage.py
 .DS_Store
 
 # Ignore Django migration files
