@@ -136,5 +136,5 @@ REST_FRAMEWORK = {
 }
 
 CORS_ALLOWED_ORIGINS = [
-    'https://python-rest-framework-tutorial.azurewebsites.net',
+    "https://python-rest-framework-tutorial.azurewebsites.net",
 ]
