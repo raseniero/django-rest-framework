@@ -27,6 +27,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = [
     "python-rest-framework-tutorial.azurewebsites.net",
+    "127.0.0.1",
 ]
 
 
